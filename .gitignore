@@ -1,0 +1,8 @@
+.env
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+__MACOSX/
